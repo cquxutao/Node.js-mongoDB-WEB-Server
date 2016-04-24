@@ -1,0 +1,14 @@
+{
+  "name": "tt",
+  "version": "1.0.0",
+  "description": "tt v1.0.1",
+  "main": "index1.0.1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.1.16"
+  }
+}
